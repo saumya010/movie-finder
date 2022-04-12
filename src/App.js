@@ -4,7 +4,7 @@ import Search from './search.svg'
 import './App.css'
 
 // api key = fb47f634
-const API_URL = `http://www.omdbapi.com/?apikey=fb47f634`
+const API_URL = `https://www.omdbapi.com/?apikey=fb47f634`
 
 const App = () => {
 
